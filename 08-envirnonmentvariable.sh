@@ -1,2 +1,2 @@
 #!/bin/bash
-export COURSE="Shell Script"
+echo "$COURSE"
